@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1547570475 source:d:\proiecte\minesweeper\main.cpp
+	"Minesweeper.h"
+
+1545670818 er.h"
+
+1547408092 source:d:\proiecte\minesweeper\src\bloc.cpp
+	"Bloc.h"
+
+1545403426 
+
+1547408078 d:\proiecte\minesweeper\include\bloc.h
+	<iostream>
+	"Steag.h"
+	"Mouse.h"
+
+1545670222 source:d:\proiecte\minesweeper\src\bomba.cpp
+	"Bomba.h"
+
+1546882551 d:\proiecte\minesweeper\include\bomba.h
+	"Bloc.h"
+
+1546465292 source:d:\proiecte\minesweeper\src\liber.cpp
+	"Liber.h"
+
+1546882551 d:\proiecte\minesweeper\include\liber.h
+	<Bloc.h>
+
+1544132485 d:\proiecte\minesweeper\include\steag.h
+	<SFML/Graphics.hpp>
+
+1545669797 hics.hpp>
+
+1544132586 source:d:\proiecte\minesweeper\src\steag.cpp
+	"Steag.h"
+
+1546882532 d:\proiecte\minesweeper\include\tabla.h
+	"Bloc.h"
+	"Liber.h"
+	"Bomba.h"
+	<vector>
+
+1546882524 source:d:\proiecte\minesweeper\src\tabla.cpp
+	"Tabla.h"
+	<stdlib.h>
+	<time.h>
+
+1545669797 d:\proiecte\minesweeper\include\mouse.h
+	<SFML/Graphics.hpp>
+
+1545256715 source:d:\proiecte\minesweeper\src\mouse.cpp
+	"Mouse.h"
+
+1545671832 source:d:\proiecte\minesweeper\src\ui.cpp
+	"UI.h"
+	<iostream>
+	<string.h>
+
+1545671832 
+
+1546461511 d:\proiecte\minesweeper\include\ui.h
+	<SFML/Graphics.hpp>
+	"Mouse.h"
+
+1545403426 d:\proiecte\minesweeper\include\minesweeper.h
+	"Tabla.h"
+	"UI.h"
+
+1545670818 source:d:\proiecte\minesweeper\src\minesweeper.cpp
+	"Minesweeper.h"
+
+1548768716 source:/media/george/9E6856056855DD19/Proiecte/Minesweeper/main.cpp
+	"Minesweeper.h"
+
+1545403426 /media/george/9E6856056855DD19/Proiecte/Minesweeper/include/Minesweeper.h
+	"Tabla.h"
+	"UI.h"
+
+1546882532 /media/george/9E6856056855DD19/Proiecte/Minesweeper/include/Tabla.h
+	"Bloc.h"
+	"Liber.h"
+	"Bomba.h"
+	<vector>
+
+1547408078 /media/george/9E6856056855DD19/Proiecte/Minesweeper/include/Bloc.h
+	<iostream>
+	"Steag.h"
+	"Mouse.h"
+
+1544132485 /media/george/9E6856056855DD19/Proiecte/Minesweeper/include/Steag.h
+	<SFML/Graphics.hpp>
+
+1545669797 /media/george/9E6856056855DD19/Proiecte/Minesweeper/include/Mouse.h
+	<SFML/Graphics.hpp>
+
+1546882551 /media/george/9E6856056855DD19/Proiecte/Minesweeper/include/Liber.h
+	<Bloc.h>
+
+1546882551 /media/george/9E6856056855DD19/Proiecte/Minesweeper/include/Bomba.h
+	"Bloc.h"
+
+1546461511 /media/george/9E6856056855DD19/Proiecte/Minesweeper/include/UI.h
+	<SFML/Graphics.hpp>
+	"Mouse.h"
+
+1547408092 source:/media/george/9E6856056855DD19/Proiecte/Minesweeper/src/Bloc.cpp
+	"Bloc.h"
+
+1545670222 source:/media/george/9E6856056855DD19/Proiecte/Minesweeper/src/Bomba.cpp
+	"Bomba.h"
+
+1546465292 source:/media/george/9E6856056855DD19/Proiecte/Minesweeper/src/Liber.cpp
+	"Liber.h"
+
+1545670818 source:/media/george/9E6856056855DD19/Proiecte/Minesweeper/src/Minesweeper.cpp
+	"Minesweeper.h"
+
+1545256715 source:/media/george/9E6856056855DD19/Proiecte/Minesweeper/src/Mouse.cpp
+	"Mouse.h"
+
+1544132586 source:/media/george/9E6856056855DD19/Proiecte/Minesweeper/src/Steag.cpp
+	"Steag.h"
+
+1546882524 source:/media/george/9E6856056855DD19/Proiecte/Minesweeper/src/Tabla.cpp
+	"Tabla.h"
+	<stdlib.h>
+	<time.h>
+
+1545671832 source:/media/george/9E6856056855DD19/Proiecte/Minesweeper/src/UI.cpp
+	"UI.h"
+	<iostream>
+	<string.h>
+
