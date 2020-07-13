@@ -6,7 +6,7 @@ For my project I used the SFML library for the graphic component.
 
 # Installation
 
-After you clone the repository you simply go to  bin/Release folder and click on the Minesweeper exec.
+After you clone the repository you simply go to  **bin/Release** folder and click on the `Minesweeper` exec.
 
 # Usage
 
